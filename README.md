@@ -1,2 +1,2 @@
-# xo
+# x
 Created with CodeSandbox
